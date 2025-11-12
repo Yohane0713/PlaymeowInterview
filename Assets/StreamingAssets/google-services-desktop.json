@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "382873620859",
+    "project_id": "playmeowinterview",
+    "storage_bucket": "playmeowinterview.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382873620859:android:e74e5eb666b8182fbdadde",
+        "android_client_info": {
+          "package_name": "Playmeow.interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382873620859-c1614ngk61d3oniv285iqee6p3g1s9kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Playmeow.interview",
+            "certificate_hash": "bde0719848bf07291dc556c3efa57cfb4bfc8517"
+          }
+        },
+        {
+          "client_id": "382873620859-nl2qpgd90j2nds8vfpktpnrleij9ma7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIUZi59n5-KwT6SAudZJxhMsTqRFg78U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382873620859-nl2qpgd90j2nds8vfpktpnrleij9ma7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382873620859-g5snn80kpdj3qrq0vvera8erjvfkgtql.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Playmeow.interview",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382873620859:android:5bf898c6050a3378bdadde",
+        "android_client_info": {
+          "package_name": "playmeow.logininterview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382873620859-spmoio9beeddg32f4270n3tvsm3jt26b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "playmeow.logininterview",
+            "certificate_hash": "6542cd418f74287ee45df76ab1c053d217a37fab"
+          }
+        },
+        {
+          "client_id": "382873620859-nl2qpgd90j2nds8vfpktpnrleij9ma7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIUZi59n5-KwT6SAudZJxhMsTqRFg78U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382873620859-nl2qpgd90j2nds8vfpktpnrleij9ma7k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382873620859-g5snn80kpdj3qrq0vvera8erjvfkgtql.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Playmeow.interview",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

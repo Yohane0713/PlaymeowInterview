@@ -1,0 +1,146 @@
+﻿###############################
+# 🌟 Unity 專案主要設定
+###############################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+Records/
+MemoryCaptures/
+sysinfo.txt
+
+###############################
+# 🌟 Unity Cache & 自動生成檔
+###############################
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.ide
+*.DS_Store
+*.apk
+*.aab
+*.unitypackage
+*.symbols.zip
+*.mmdb
+
+###############################
+# 🌟 Android / Gradle / Studio
+###############################
+.gradle/
+.idea/
+*.iml
+local.properties
+*.dex
+*.class
+*.jar
+*.keystore
+*.jks
+*.apk
+*.aab
+*.so
+*.aar
+
+###############################
+# 🌟 Firebase / Google Play
+###############################
+# 若要上傳 Firebase 設定檔給團隊共用，可移除底下註解
+# 否則建議忽略保護私密金鑰
+google-services.json
+GoogleService-Info.plist
+
+###############################
+# 🌟 OS / 系統檔案
+###############################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+###############################
+# 🌟 Visual Studio Code
+###############################
+.vscode/
+.history/
+*.code-workspace
+
+###############################
+# 🌟 Rider / JetBrains
+###############################
+.idea/
+*.sln.iml
+.idea/.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+.idea/dictionaries
+.idea/libraries
+.idea/misc.xml
+.idea/modules.xml
+.idea/.name
+.idea/compiler.xml
+.idea/caches
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+
+###############################
+# 🌟 Logs / Reports
+###############################
+*.log
+*.stacktrace
+*.crash
+*.csv
+*.txt
+
+###############################
+# 🌟 AssetBundle / Addressables
+###############################
+AssetBundles/
+ServerData/
+AddressableAssetsData/*/catalog.json
+AddressableAssetsData/*/settings.json
+
+###############################
+# 🌟 Git LFS（大檔追蹤）
+###############################
+# 建議搭配 Git LFS
+# git lfs track "*.png"
+# git lfs track "*.fbx"
+# git lfs track "*.wav"
+# git lfs track "*.mp4"
+# git lfs track "*.psd"
+# git lfs track "*.prefab"
+*.fbx
+*.png
+*.jpg
+*.jpeg
+*.tga
+*.psd
+*.tif
+*.tiff
+*.mp4
+*.mov
+*.wav
+*.ogg
+*.mp3
+*.prefab
+*.unity
+*.mat
+*.shader
+*.anim
+*.controller

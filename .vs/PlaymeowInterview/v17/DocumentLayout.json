@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tea00\\PlaymeowInterview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|c:\\users\\tea00\\playmeowinterview\\assets\\scripts\\emailauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\emailauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|c:\\users\\tea00\\playmeowinterview\\assets\\scripts\\firebasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\firebasebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|c:\\users\\tea00\\playmeowinterview\\assets\\scripts\\googleauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\googleauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|C:\\Users\\tea00\\PlaymeowInterview\\assets\\scripts\\footercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6EFFF25-1706-5D72-6D1F-18952ADB5CB1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\footercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoogleAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\GoogleAuthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoogleAuthController.cs",
+              "ToolTip": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\GoogleAuthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoogleAuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:26:12.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirebaseBootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\FirebaseBootstrap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirebaseBootstrap.cs",
+              "ToolTip": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\FirebaseBootstrap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirebaseBootstrap.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T17:24:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\EmailAuthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EmailAuthController.cs",
+              "ToolTip": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\EmailAuthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EmailAuthController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:30:48.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FooterController.cs",
+              "DocumentMoniker": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\FooterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FooterController.cs",
+              "ToolTip": "C:\\Users\\tea00\\PlaymeowInterview\\Assets\\Scripts\\FooterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FooterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:18:29.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
