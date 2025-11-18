@@ -126,9 +126,6 @@ AddressableAssetsData/*/settings.json
 # git lfs track "*.psd"
 # git lfs track "*.prefab"
 *.fbx
-*.png
-*.jpg
-*.jpeg
 *.tga
 *.psd
 *.tif
@@ -138,9 +135,4 @@ AddressableAssetsData/*/settings.json
 *.wav
 *.ogg
 *.mp3
-*.prefab
-*.unity
 *.mat
-*.shader
-*.anim
-*.controller
